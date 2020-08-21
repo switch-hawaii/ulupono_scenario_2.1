@@ -1,0 +1,9 @@
+component,npv_cost
+TotalGenFixedCosts,15747796116.8344
+FuelCostsPerPeriod,7299553246.553249
+StorageEnergyFixedCost,2519409732.083463
+RFM_Fixed_Costs_Annual,0
+Pumped_Hydro_Fixed_Cost_Annual,0
+TotalGenCapitalCostsSubsidy,-857144193.1191579
+GenVariableOMCostsInTP,1828123564.362406
+Total_StartupGenCapacity_OM_Costs,0

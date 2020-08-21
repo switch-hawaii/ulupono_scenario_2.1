@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__
+*.zip
+*.xlsx
+*.pickle
+*.docx
+*.sh
+!EIA Data/**/*.xlsx
+!Scenario Assumptions Tab Fripp Outputs 2020-08-13.xlsx
+!Scenario Assumptions Tab HECO Outputs 2020-08-14.xlsx
+!Compare HECO Switch annual cost and renewables.xlsx
+!HECO-Switch capacity and energy comparison.xlsx
+!HECO-Switch load comparisons.xlsx
+!peak and average demand.xlsx
+!production comparison base vs early Kahe.xlsx

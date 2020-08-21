@@ -1,0 +1,6 @@
+--scenario-name base --outputs-dir outputs
+--scenario-name accept --exclude-module no_new_thermal_capacity --outputs-dir outputs_accept
+--scenario-name resist --onshore-wind-limit 123 --outputs-dir outputs_resist
+--scenario-name heco --psip-force --exclude-module no_new_thermal_capacity switch_model.hawaii.heco_outlook_2020_08 --include-module switch_model.hawaii.heco_plan_2020_08 --inputs-dir inputs_heco --outputs-dir outputs_heco
+--scenario-name no_hydro --ph-year 2045 --ph-mw 0
+--scenario-name heco_retirement --inputs-dir inputs_heco --outputs-dir outputs_heco_retirement

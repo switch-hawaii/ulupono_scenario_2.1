@@ -1,0 +1,1704 @@
+{
+    "tech_group_power_targets": [
+        [
+            2021,
+            "DistPV",
+            29.51,
+            "DER forecast"
+        ],
+        [
+            2022,
+            "DistPV",
+            22.835,
+            "DER forecast"
+        ],
+        [
+            2023,
+            "DistPV",
+            19.168,
+            "DER forecast"
+        ],
+        [
+            2024,
+            "DistPV",
+            23.087,
+            "DER forecast"
+        ],
+        [
+            2025,
+            "DistPV",
+            24.322,
+            "DER forecast"
+        ],
+        [
+            2026,
+            "DistPV",
+            25.888,
+            "DER forecast"
+        ],
+        [
+            2027,
+            "DistPV",
+            27.24,
+            "DER forecast"
+        ],
+        [
+            2028,
+            "DistPV",
+            28.387,
+            "DER forecast"
+        ],
+        [
+            2029,
+            "DistPV",
+            29.693,
+            "DER forecast"
+        ],
+        [
+            2030,
+            "DistPV",
+            30.522,
+            "DER forecast"
+        ],
+        [
+            2031,
+            "DistPV",
+            31.32,
+            "DER forecast"
+        ],
+        [
+            2032,
+            "DistPV",
+            32.234,
+            "DER forecast"
+        ],
+        [
+            2033,
+            "DistPV",
+            32.42,
+            "DER forecast"
+        ],
+        [
+            2034,
+            "DistPV",
+            32.98,
+            "DER forecast"
+        ],
+        [
+            2035,
+            "DistPV",
+            33.219,
+            "DER forecast"
+        ],
+        [
+            2036,
+            "DistPV",
+            32.785,
+            "DER forecast"
+        ],
+        [
+            2037,
+            "DistPV",
+            33.175,
+            "DER forecast"
+        ],
+        [
+            2038,
+            "DistPV",
+            33.011,
+            "DER forecast"
+        ],
+        [
+            2039,
+            "DistPV",
+            33.101,
+            "DER forecast"
+        ],
+        [
+            2040,
+            "DistPV",
+            33.262,
+            "DER forecast"
+        ],
+        [
+            2041,
+            "DistPV",
+            33.457,
+            "DER forecast"
+        ],
+        [
+            2042,
+            "DistPV",
+            33.343,
+            "DER forecast"
+        ],
+        [
+            2043,
+            "DistPV",
+            34.072,
+            "DER forecast"
+        ],
+        [
+            2044,
+            "DistPV",
+            34.386,
+            "DER forecast"
+        ],
+        [
+            2045,
+            "DistPV",
+            35.038,
+            "DER forecast"
+        ],
+        [
+            2021,
+            "DistBattery",
+            12.968,
+            "DER forecast"
+        ],
+        [
+            2022,
+            "DistBattery",
+            9.693,
+            "DER forecast"
+        ],
+        [
+            2023,
+            "DistBattery",
+            3.135,
+            "DER forecast"
+        ],
+        [
+            2024,
+            "DistBattery",
+            3.732,
+            "DER forecast"
+        ],
+        [
+            2025,
+            "DistBattery",
+            4.542,
+            "DER forecast"
+        ],
+        [
+            2026,
+            "DistBattery",
+            5.324,
+            "DER forecast"
+        ],
+        [
+            2027,
+            "DistBattery",
+            6.115,
+            "DER forecast"
+        ],
+        [
+            2028,
+            "DistBattery",
+            6.719,
+            "DER forecast"
+        ],
+        [
+            2029,
+            "DistBattery",
+            7.316,
+            "DER forecast"
+        ],
+        [
+            2030,
+            "DistBattery",
+            7.913,
+            "DER forecast"
+        ],
+        [
+            2031,
+            "DistBattery",
+            8.355,
+            "DER forecast"
+        ],
+        [
+            2032,
+            "DistBattery",
+            8.723,
+            "DER forecast"
+        ],
+        [
+            2033,
+            "DistBattery",
+            9.006,
+            "DER forecast"
+        ],
+        [
+            2034,
+            "DistBattery",
+            9.315,
+            "DER forecast"
+        ],
+        [
+            2035,
+            "DistBattery",
+            9.49,
+            "DER forecast"
+        ],
+        [
+            2036,
+            "DistBattery",
+            9.556,
+            "DER forecast"
+        ],
+        [
+            2037,
+            "DistBattery",
+            9.688,
+            "DER forecast"
+        ],
+        [
+            2038,
+            "DistBattery",
+            9.777,
+            "DER forecast"
+        ],
+        [
+            2039,
+            "DistBattery",
+            9.827,
+            "DER forecast"
+        ],
+        [
+            2040,
+            "DistBattery",
+            9.874,
+            "DER forecast"
+        ],
+        [
+            2041,
+            "DistBattery",
+            9.939,
+            "DER forecast"
+        ],
+        [
+            2042,
+            "DistBattery",
+            10.098,
+            "DER forecast"
+        ],
+        [
+            2043,
+            "DistBattery",
+            10.238,
+            "DER forecast"
+        ],
+        [
+            2044,
+            "DistBattery",
+            10.37,
+            "DER forecast"
+        ],
+        [
+            2045,
+            "DistBattery",
+            10.478,
+            "DER forecast"
+        ],
+        [
+            2021,
+            "LargePV",
+            3.5,
+            "Mauka FIT 1"
+        ],
+        [
+            2021,
+            "OnshoreWind",
+            24.0,
+            "Na Pua Makani"
+        ],
+        [
+            2021,
+            "LargePV",
+            5.0,
+            "CBRE Phase 1"
+        ],
+        [
+            2023,
+            "LargePV",
+            15.0,
+            "CBRE phase 2, small"
+        ],
+        [
+            2024,
+            "LargePV",
+            5.0,
+            "CBRE phase 2, small"
+        ],
+        [
+            2025,
+            "LargePV",
+            150.0,
+            "CBRE phase 2"
+        ],
+        [
+            2021,
+            "LargePV",
+            12.5,
+            "RFP stage 1"
+        ],
+        [
+            2022,
+            "LargePV",
+            52.0,
+            "RFP stage 1"
+        ],
+        [
+            2022,
+            "LargePV",
+            39.0,
+            "RFP stage 1"
+        ],
+        [
+            2022,
+            "LargePV",
+            36.0,
+            "RFP stage 1"
+        ],
+        [
+            2021,
+            "Battery_Bulk",
+            12.5,
+            "RFP stage 1"
+        ],
+        [
+            2022,
+            "Battery_Bulk",
+            52.0,
+            "RFP stage 1"
+        ],
+        [
+            2022,
+            "Battery_Bulk",
+            39.0,
+            "RFP stage 1"
+        ],
+        [
+            2022,
+            "Battery_Bulk",
+            36.0,
+            "RFP stage 1"
+        ],
+        [
+            2023,
+            "LargePV",
+            60.0,
+            "RFP stage 2"
+        ],
+        [
+            2023,
+            "LargePV",
+            42.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "LargePV",
+            15.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "LargePV",
+            120.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "LargePV",
+            7.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "LargePV",
+            30.0,
+            "RFP stage 2"
+        ],
+        [
+            2023,
+            "Battery_Bulk",
+            185.0,
+            "RFP stage 2"
+        ],
+        [
+            2023,
+            "Battery_Bulk",
+            60.0,
+            "RFP stage 2"
+        ],
+        [
+            2023,
+            "Battery_Bulk",
+            42.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "Battery_Bulk",
+            15.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "Battery_Bulk",
+            120.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "Battery_Bulk",
+            7.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "Battery_Bulk",
+            30.0,
+            "RFP stage 2"
+        ],
+        [
+            2046,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2046,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2047,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2047,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2048,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2048,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2049,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2049,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2050,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2050,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2051,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2051,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2052,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2052,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2053,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2053,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2054,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2054,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2055,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2055,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2056,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2056,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2057,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2057,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2058,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2058,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2059,
+            "DistPV",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2059,
+            "DistBattery",
+            0.0,
+            "late freeze"
+        ],
+        [
+            2020,
+            "OnshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2021,
+            "OnshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2022,
+            "OnshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2023,
+            "OnshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2024,
+            "OnshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2025,
+            "OnshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2020,
+            "OffshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2021,
+            "OffshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2022,
+            "OffshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2023,
+            "OffshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2024,
+            "OffshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2025,
+            "OffshoreWind",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2020,
+            "LargePV",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2021,
+            "LargePV",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2022,
+            "LargePV",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2023,
+            "LargePV",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2024,
+            "LargePV",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2025,
+            "LargePV",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2020,
+            "IC_Barge",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2021,
+            "IC_Barge",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2022,
+            "IC_Barge",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2023,
+            "IC_Barge",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2020,
+            "IC_MCBH",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2021,
+            "IC_MCBH",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2022,
+            "IC_MCBH",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2023,
+            "IC_MCBH",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2020,
+            "IC_Schofield",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2021,
+            "IC_Schofield",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2022,
+            "IC_Schofield",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2023,
+            "IC_Schofield",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2020,
+            "CC_152",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2021,
+            "CC_152",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2022,
+            "CC_152",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2023,
+            "CC_152",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2020,
+            "Battery_Conting",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2021,
+            "Battery_Conting",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2022,
+            "Battery_Conting",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2023,
+            "Battery_Conting",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2020,
+            "Battery_Reg",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2021,
+            "Battery_Reg",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2022,
+            "Battery_Reg",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2023,
+            "Battery_Reg",
+            0.0,
+            "early freeze"
+        ],
+        [
+            2041,
+            "OnshoreWind",
+            30.0,
+            "rebuild existing"
+        ],
+        [
+            2042,
+            "LargePV",
+            7.0,
+            "rebuild existing"
+        ],
+        [
+            2042,
+            "OnshoreWind",
+            69.0,
+            "rebuild existing"
+        ],
+        [
+            2043,
+            "DistPV",
+            118.99999999999976,
+            "rebuild existing"
+        ],
+        [
+            2044,
+            "DistPV",
+            101.99999999999977,
+            "rebuild existing"
+        ],
+        [
+            2044,
+            "LargePV",
+            5.0,
+            "rebuild existing"
+        ],
+        [
+            2045,
+            "DistPV",
+            61.99999999999983,
+            "rebuild existing"
+        ],
+        [
+            2046,
+            "DistPV",
+            59.999999999999915,
+            "rebuild existing"
+        ],
+        [
+            2046,
+            "LargePV",
+            6.5,
+            "rebuild existing"
+        ],
+        [
+            2047,
+            "DistPV",
+            67.99999999999994,
+            "rebuild existing"
+        ],
+        [
+            2047,
+            "LargePV",
+            32.6,
+            "rebuild existing"
+        ],
+        [
+            2048,
+            "DistPV",
+            90.99999999999997,
+            "rebuild existing"
+        ],
+        [
+            2049,
+            "DistPV",
+            30.999999999999936,
+            "rebuild existing"
+        ],
+        [
+            2035,
+            "DistBattery",
+            38.097,
+            "rebuild existing"
+        ],
+        [
+            2050,
+            "DistBattery",
+            38.097,
+            "rebuild existing"
+        ],
+        [
+            2050,
+            "DistPV",
+            140.99999999999991,
+            "rebuild existing"
+        ],
+        [
+            2050,
+            "LargePV",
+            134.6,
+            "rebuild existing"
+        ],
+        [
+            2036,
+            "DistBattery",
+            12.968,
+            "rebuild DER forecast"
+        ],
+        [
+            2037,
+            "DistBattery",
+            9.693,
+            "rebuild DER forecast"
+        ],
+        [
+            2038,
+            "DistBattery",
+            3.135,
+            "rebuild DER forecast"
+        ],
+        [
+            2039,
+            "DistBattery",
+            3.732,
+            "rebuild DER forecast"
+        ],
+        [
+            2040,
+            "DistBattery",
+            4.542,
+            "rebuild DER forecast"
+        ],
+        [
+            2041,
+            "DistBattery",
+            5.324,
+            "rebuild DER forecast"
+        ],
+        [
+            2042,
+            "DistBattery",
+            6.115,
+            "rebuild DER forecast"
+        ],
+        [
+            2043,
+            "DistBattery",
+            6.719,
+            "rebuild DER forecast"
+        ],
+        [
+            2044,
+            "DistBattery",
+            7.316,
+            "rebuild DER forecast"
+        ],
+        [
+            2045,
+            "DistBattery",
+            7.913,
+            "rebuild DER forecast"
+        ],
+        [
+            2046,
+            "DistBattery",
+            8.355,
+            "rebuild DER forecast"
+        ],
+        [
+            2047,
+            "DistBattery",
+            8.723,
+            "rebuild DER forecast"
+        ],
+        [
+            2048,
+            "DistBattery",
+            9.006,
+            "rebuild DER forecast"
+        ],
+        [
+            2049,
+            "DistBattery",
+            9.315,
+            "rebuild DER forecast"
+        ],
+        [
+            2050,
+            "DistBattery",
+            9.49,
+            "rebuild DER forecast"
+        ],
+        [
+            2036,
+            "Battery_Bulk",
+            12.5,
+            "rebuild RFP stage 1"
+        ],
+        [
+            2037,
+            "Battery_Bulk",
+            52.0,
+            "rebuild RFP stage 1"
+        ],
+        [
+            2037,
+            "Battery_Bulk",
+            39.0,
+            "rebuild RFP stage 1"
+        ],
+        [
+            2037,
+            "Battery_Bulk",
+            36.0,
+            "rebuild RFP stage 1"
+        ],
+        [
+            2038,
+            "Battery_Bulk",
+            185.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2038,
+            "Battery_Bulk",
+            60.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2038,
+            "Battery_Bulk",
+            42.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2039,
+            "Battery_Bulk",
+            15.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2039,
+            "Battery_Bulk",
+            120.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2039,
+            "Battery_Bulk",
+            7.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2039,
+            "Battery_Bulk",
+            30.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2050,
+            "OnshoreWind",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2050,
+            "OffshoreWind",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2050,
+            "LargePV",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2050,
+            "IC_Barge",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2050,
+            "IC_MCBH",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2050,
+            "IC_Schofield",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2050,
+            "CC_152",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2035,
+            "Battery_Conting",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2050,
+            "Battery_Conting",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2036,
+            "Battery_Conting",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2037,
+            "Battery_Conting",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2038,
+            "Battery_Conting",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2035,
+            "Battery_Reg",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2050,
+            "Battery_Reg",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2036,
+            "Battery_Reg",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2037,
+            "Battery_Reg",
+            0.0,
+            "rebuild early freeze"
+        ],
+        [
+            2038,
+            "Battery_Reg",
+            0.0,
+            "rebuild early freeze"
+        ]
+    ],
+    "tech_group_energy_targets": [
+        [
+            2021,
+            "DistBattery",
+            51.872,
+            "DER forecast"
+        ],
+        [
+            2022,
+            "DistBattery",
+            38.772,
+            "DER forecast"
+        ],
+        [
+            2023,
+            "DistBattery",
+            12.54,
+            "DER forecast"
+        ],
+        [
+            2024,
+            "DistBattery",
+            14.928,
+            "DER forecast"
+        ],
+        [
+            2025,
+            "DistBattery",
+            18.168,
+            "DER forecast"
+        ],
+        [
+            2026,
+            "DistBattery",
+            21.296,
+            "DER forecast"
+        ],
+        [
+            2027,
+            "DistBattery",
+            24.46,
+            "DER forecast"
+        ],
+        [
+            2028,
+            "DistBattery",
+            26.876,
+            "DER forecast"
+        ],
+        [
+            2029,
+            "DistBattery",
+            29.264,
+            "DER forecast"
+        ],
+        [
+            2030,
+            "DistBattery",
+            31.652,
+            "DER forecast"
+        ],
+        [
+            2031,
+            "DistBattery",
+            33.42,
+            "DER forecast"
+        ],
+        [
+            2032,
+            "DistBattery",
+            34.892,
+            "DER forecast"
+        ],
+        [
+            2033,
+            "DistBattery",
+            36.024,
+            "DER forecast"
+        ],
+        [
+            2034,
+            "DistBattery",
+            37.26,
+            "DER forecast"
+        ],
+        [
+            2035,
+            "DistBattery",
+            37.96,
+            "DER forecast"
+        ],
+        [
+            2036,
+            "DistBattery",
+            38.224,
+            "DER forecast"
+        ],
+        [
+            2037,
+            "DistBattery",
+            38.752,
+            "DER forecast"
+        ],
+        [
+            2038,
+            "DistBattery",
+            39.108,
+            "DER forecast"
+        ],
+        [
+            2039,
+            "DistBattery",
+            39.308,
+            "DER forecast"
+        ],
+        [
+            2040,
+            "DistBattery",
+            39.496,
+            "DER forecast"
+        ],
+        [
+            2041,
+            "DistBattery",
+            39.756,
+            "DER forecast"
+        ],
+        [
+            2042,
+            "DistBattery",
+            40.392,
+            "DER forecast"
+        ],
+        [
+            2043,
+            "DistBattery",
+            40.952,
+            "DER forecast"
+        ],
+        [
+            2044,
+            "DistBattery",
+            41.48,
+            "DER forecast"
+        ],
+        [
+            2045,
+            "DistBattery",
+            41.912,
+            "DER forecast"
+        ],
+        [
+            2021,
+            "Battery_Bulk",
+            50.0,
+            "RFP stage 1"
+        ],
+        [
+            2022,
+            "Battery_Bulk",
+            208.0,
+            "RFP stage 1"
+        ],
+        [
+            2022,
+            "Battery_Bulk",
+            156.0,
+            "RFP stage 1"
+        ],
+        [
+            2022,
+            "Battery_Bulk",
+            144.0,
+            "RFP stage 1"
+        ],
+        [
+            2023,
+            "Battery_Bulk",
+            564.99,
+            "RFP stage 2"
+        ],
+        [
+            2023,
+            "Battery_Bulk",
+            240.0,
+            "RFP stage 2"
+        ],
+        [
+            2023,
+            "Battery_Bulk",
+            168.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "Battery_Bulk",
+            60.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "Battery_Bulk",
+            480.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "Battery_Bulk",
+            35.0,
+            "RFP stage 2"
+        ],
+        [
+            2024,
+            "Battery_Bulk",
+            240.0,
+            "RFP stage 2"
+        ],
+        [
+            2035,
+            "DistBattery",
+            152.388,
+            "rebuild existing"
+        ],
+        [
+            2050,
+            "DistBattery",
+            152.388,
+            "rebuild existing"
+        ],
+        [
+            2036,
+            "DistBattery",
+            51.872,
+            "rebuild DER forecast"
+        ],
+        [
+            2037,
+            "DistBattery",
+            38.772,
+            "rebuild DER forecast"
+        ],
+        [
+            2038,
+            "DistBattery",
+            12.54,
+            "rebuild DER forecast"
+        ],
+        [
+            2039,
+            "DistBattery",
+            14.928,
+            "rebuild DER forecast"
+        ],
+        [
+            2040,
+            "DistBattery",
+            18.168,
+            "rebuild DER forecast"
+        ],
+        [
+            2041,
+            "DistBattery",
+            21.296,
+            "rebuild DER forecast"
+        ],
+        [
+            2042,
+            "DistBattery",
+            24.46,
+            "rebuild DER forecast"
+        ],
+        [
+            2043,
+            "DistBattery",
+            26.876,
+            "rebuild DER forecast"
+        ],
+        [
+            2044,
+            "DistBattery",
+            29.264,
+            "rebuild DER forecast"
+        ],
+        [
+            2045,
+            "DistBattery",
+            31.652,
+            "rebuild DER forecast"
+        ],
+        [
+            2046,
+            "DistBattery",
+            33.42,
+            "rebuild DER forecast"
+        ],
+        [
+            2047,
+            "DistBattery",
+            34.892,
+            "rebuild DER forecast"
+        ],
+        [
+            2048,
+            "DistBattery",
+            36.024,
+            "rebuild DER forecast"
+        ],
+        [
+            2049,
+            "DistBattery",
+            37.26,
+            "rebuild DER forecast"
+        ],
+        [
+            2050,
+            "DistBattery",
+            37.96,
+            "rebuild DER forecast"
+        ],
+        [
+            2036,
+            "Battery_Bulk",
+            50.0,
+            "rebuild RFP stage 1"
+        ],
+        [
+            2037,
+            "Battery_Bulk",
+            208.0,
+            "rebuild RFP stage 1"
+        ],
+        [
+            2037,
+            "Battery_Bulk",
+            156.0,
+            "rebuild RFP stage 1"
+        ],
+        [
+            2037,
+            "Battery_Bulk",
+            144.0,
+            "rebuild RFP stage 1"
+        ],
+        [
+            2038,
+            "Battery_Bulk",
+            564.99,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2038,
+            "Battery_Bulk",
+            240.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2038,
+            "Battery_Bulk",
+            168.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2039,
+            "Battery_Bulk",
+            60.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2039,
+            "Battery_Bulk",
+            480.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2039,
+            "Battery_Bulk",
+            35.0,
+            "rebuild RFP stage 2"
+        ],
+        [
+            2039,
+            "Battery_Bulk",
+            240.0,
+            "rebuild RFP stage 2"
+        ]
+    ],
+    "techs_for_tech_group": {
+        "DistPV": [
+            "DistPV",
+            "SlopedDistPV",
+            "FlatDistPV"
+        ],
+        "LargePV": [
+            "CentralTrackingPV",
+            "CentralFixedPV"
+        ],
+        "IC_MCBH": [
+            "IC_MCBH"
+        ],
+        "CC_152": [
+            "CC_152"
+        ],
+        "Battery_Bulk": [
+            "Battery_Bulk"
+        ],
+        "OffshoreWind": [
+            "OffshoreWind"
+        ],
+        "DistBattery": [
+            "DistBattery"
+        ],
+        "OnshoreWind": [
+            "OnshoreWind"
+        ],
+        "Battery_Reg": [
+            "Battery_Reg"
+        ],
+        "IC_Schofield": [
+            "IC_Schofield"
+        ],
+        "Battery_Conting": [
+            "Battery_Conting"
+        ],
+        "IC_Barge": [
+            "IC_Barge"
+        ]
+    },
+    "tech_tech_group": {
+        "DistPV": "DistPV",
+        "SlopedDistPV": "DistPV",
+        "FlatDistPV": "DistPV",
+        "CentralTrackingPV": "LargePV",
+        "CentralFixedPV": "LargePV",
+        "IC_MCBH": "IC_MCBH",
+        "CC_152": "CC_152",
+        "Battery_Bulk": "Battery_Bulk",
+        "OffshoreWind": "OffshoreWind",
+        "DistBattery": "DistBattery",
+        "OnshoreWind": "OnshoreWind",
+        "Battery_Reg": "Battery_Reg",
+        "IC_Schofield": "IC_Schofield",
+        "Battery_Conting": "Battery_Conting",
+        "IC_Barge": "IC_Barge"
+    },
+    "last_definite_target": {
+        "DistPV": 2059,
+        "DistBattery": 2059,
+        "LargePV": 2025,
+        "OnshoreWind": 2025,
+        "Battery_Bulk": 2024,
+        "OffshoreWind": 2025,
+        "IC_Barge": 2023,
+        "IC_MCBH": 2023,
+        "IC_Schofield": 2023,
+        "CC_152": 2023,
+        "Battery_Conting": 2023,
+        "Battery_Reg": 2023
+    }
+}

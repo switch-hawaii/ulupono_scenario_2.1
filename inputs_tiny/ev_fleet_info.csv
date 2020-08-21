@@ -1,0 +1,3 @@
+LOAD_ZONE,PERIOD,ev_share,ice_miles_per_gallon,ev_miles_per_kwh,ev_extra_cost_per_vehicle_year,n_all_vehicles,vmt_per_vehicle
+Oahu,2025,0.0374880110182046,21.0,3.2258064516129,866.666666666667,643299.0,9011.0
+Oahu,2045,0.544448227029733,21.0,3.2258064516129,333.333333333333,643299.0,9011.0
