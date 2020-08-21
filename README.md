@@ -19,16 +19,16 @@ it to your computer.
 Please contact Matthias Fripp <mfripp@hawaii.edu> if you have any questions
 about using the data or model or interpreting the results.
 
-# 1. Install or view Scenario 2 data
+# 1. Install or view Scenario 2.1 data
 
-Follow the steps below to install a copy of the Scenario 2 data on your computer
+Follow the steps below to install a copy of the Scenario 2.1 data on your computer
 (optional).
 
 - Download the data from
   https://github.com/switch-hawaii/ulupono_scenario_2.1/archive/2020-08-20.zip
-  (~100 MB).
+  (256 MB).
 - Unzip the downloaded file. This will produce a folder containing all the input
-  and output data for Scenario 2 (~1 GB).  
+  and output data for Scenario 2.1 (1.8 GB).  
 - Rename the folder if desired (e.g., "ulupono_scenario_2.1") and move it to a
   convenient location.
 - As an alternative, if you are familiar with `git`, you can use it to retrieve
